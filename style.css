@@ -1,0 +1,87 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #f4f7fc;
+    margin: 0;
+    padding: 0;
+}
+
+.container,
+.dashboard{
+    width: 80%;
+    max-width: 900px;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+h1{
+    text-align:center;
+    color:#2c3e50;
+}
+
+h2,h3{
+    color:#34495e;
+}
+
+form{
+    margin-top:20px;
+}
+
+input[type="file"],
+textarea{
+    width:100%;
+    padding:12px;
+    border:1px solid #ccc;
+    border-radius:6px;
+}
+
+textarea{
+    height:120px;
+    resize:vertical;
+}
+
+button{
+    background:#3498db;
+    color:white;
+    border:none;
+    padding:12px 20px;
+    border-radius:6px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+button:hover{
+    background:#2980b9;
+}
+
+.score-box{
+    text-align:center;
+    background:#ecf0f1;
+    padding:20px;
+    border-radius:10px;
+    margin:20px 0;
+}
+
+.skills span{
+    display:inline-block;
+    background:#3498db;
+    color:white;
+    padding:8px 12px;
+    border-radius:20px;
+    margin:5px;
+}
+
+.resume{
+    background:#f8f9fa;
+    padding:15px;
+    border-radius:8px;
+    max-height:300px;
+    overflow:auto;
+}
+
+.status{
+    text-align:center;
+    color:green;
+}
