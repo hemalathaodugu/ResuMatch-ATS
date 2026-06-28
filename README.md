@@ -51,6 +51,7 @@ ResuMatch-ATS/
 
 Hemalatha Odugu
 
-B.Tech Student
+B.Tech Student  
 
-Major Project – 2026
+Internship Project – 2026
+Eduexpose Technologies
